@@ -4,9 +4,6 @@ public class JavaFile {
         System.out.println("largets in 9 and 8 is :"+KotlinBasics.getlargest(8,9));
 
         MyLambda myLambda=()->System.out.println("This is Foo");
-
-
-
     }
 
 

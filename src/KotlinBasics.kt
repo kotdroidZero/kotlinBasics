@@ -24,6 +24,7 @@ fun main(args: Array<String>) {
     //extension function
     var word="Welcome ".add(s2="Kotlin World",s1="to the ")
     println(word)
+
 }
 
 fun String.add(s1:String,s2:String):String=this+s1+s2

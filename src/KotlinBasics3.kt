@@ -1,4 +1,3 @@
-import java.util.function.Consumer
 
 fun main(args: Array<String>) {
 
